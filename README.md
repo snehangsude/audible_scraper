@@ -11,6 +11,7 @@ Also, while running *Loop: 1* since it's recommended to use 3-5 pages at once in
 
 # Datset
 #### You can find the dataset here: [Audiobooks Dataset](https://www.kaggle.com/datasets/snehangsude/audible-dataset)
+The description of the dataset is mentioned in the **description** section.
 
 # Data Cleaning
 The Audiobooks dataset has two `.csv` files.
