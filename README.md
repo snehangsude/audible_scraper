@@ -1,8 +1,13 @@
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/snehangsude/audible_scraper)
-![GitHub repo size](https://img.shields.io/github/repo-size/snehangsude/audible_scraper)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/snehangsude/audible_scraper?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/snehangsude/audible_scraper?style=flat-square)
+![GitHub](https://img.shields.io/github/license/snehangsude/audible_scraper?style=flat-square)
 
 # Audible Scraper
 An [Audible.in](https://www.audible.in) webscraper to gather audiobooks data.
+
+> The code in the **Notebooks** mentioned below and the scraping code are well documented/explained so as to cover all the steps that were taken. 
+> If you are new to data wrangling and data cleaning you can use them to understand better on Pandas and Matplotlib. 
+> As for the scraping, I'm currently writing a blogpost and will soon be out on how I organized it.
 
 # Libraries used
 - Regex
