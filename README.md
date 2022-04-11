@@ -1,5 +1,19 @@
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/snehangsude/audible_scraper)
+![GitHub repo size](https://img.shields.io/github/repo-size/snehangsude/audible_scraper)
+
 # Audible Scraper
 An [Audible.in](https://www.audible.in) webscraper to gather audiobooks data.
+
+# Libraries used
+- Regex
+- Beautiful Soup
+- Selenium
+- csv
+
+The code used Selenium and Beautiful Soup in unison to gather the data. 
+**NOTE**: It's recommended to have Firefox before you use the code as the Selenium driver used is based of Mozilla. You can elsewise, write your own
+[Chrome driver](https://stackoverflow.com/questions/64717302/deprecationwarning-executable-path-has-been-deprecated-selenium-python/71628814#71628814) by
+following this link. 
 
 ## Things to note about the customer scraper *(main.py)*
 If you are going through the code, inside **Loop : 2** you may see a bit of handwritten customization of the code. 
