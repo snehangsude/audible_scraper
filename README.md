@@ -43,3 +43,6 @@ that might help you get started. It covers from beginners to intermidiate.
 # Data Exploration
 If you are rather interested to directly dive into the data and create exiciting data visulation, I've a [notebook here](https://snehangsude.github.io/xSpace/audible/data_analysis/data_visulization/tabular_data/matplotlib/seaborn/2022/04/11/audible-eda.html).
 You can directly start with exploring the data, however make sure you are using the `audible_cleaned.csv` to start.
+
+
+#### For any queries, questions and help, please find me on [Twitter](https://twitter.com/_Perceptron_) or [LinkedIn](https://www.linkedin.com/in/snehangsu-de/).
