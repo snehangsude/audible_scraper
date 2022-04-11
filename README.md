@@ -37,7 +37,7 @@ The Audiobooks dataset has two `.csv` files.
 - audible_uncleaned.csv
 - audible_cleaned.csv
 
-If you are looking to use the uncleaned one to practice or wrangle the data based on your needs, [here's a notebook](https://snehangsude.github.io/xSpace/audible/dataa_wrangling/data_cleaning/tabular_data/2022/04/11/audible-cleaner.html)
+If you are looking to use the uncleaned one to practice or wrangle the data based on your needs, [here's a notebook](https://snehangsude.github.io/xSpace/audible/data_wrangling/data_cleaning/tabular_data/2022/04/11/audible-cleaner.html)
 that might help you get started. It covers from beginners to intermidiate.  
 
 # Data Exploration
