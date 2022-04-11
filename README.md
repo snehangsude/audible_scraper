@@ -28,7 +28,7 @@ to the `LGBTQ+` category and the category it was orginally under is ignored.
 It is recommended to check them prior to running the code as Audible.in is updated everyday.
 Also, while running *Loop: 1* since it's recommended to use 3-5 pages at once instead of all as this makes sure that the program runs smoothly.
 
-# Datset
+# Dataset
 #### You can find the dataset here: [Audiobooks Dataset](https://www.kaggle.com/datasets/snehangsude/audible-dataset)
 The description of the dataset is mentioned in the **description** section.
 
